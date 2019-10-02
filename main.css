@@ -1,0 +1,16 @@
+
+img {
+    margin: 30px;
+}
+
+#Bart {
+    transition: transform 1s ease;
+}
+
+#Bart:hover {
+    transform: scale(2) translate(10px, 40px);
+}
+
+#Lisa {
+    width: 150px;
+}

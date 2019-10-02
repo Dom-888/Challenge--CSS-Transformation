@@ -1,20 +1,24 @@
-# Contains two Codeinstitute challenges designed to explore the CSS
+# Contains three Codeinstitute challenges designed to explore the CSS Transition properties
 
 <br>
 
 ## First challenge
 
-Test out your new skills by creating a hover effect for a link.
-
-1. When hovered a link should change color to the black: #000
-2. Transition speed should be set to 1 second, and transition-timing-function should be ease-in-out
-3. Transition should be triggered by hovered
+- Make an image double in size when you hover over it but don’t make it jump.
+- Use a transition to make the transformation smooth.
+- The transition should happen within 1 second, and the transition-timing-function should be set to ease-in. 
 
 <br>
 
 ## Second challenge
 
-Test out your new skills by creating a color change effect.
+- Use the rotate function to spin an image infinitely.
+- The image should rotate without any breaks and stops.
+- Don't forget to give your animation a name!
 
-1. Change the background color of the box to the red #e84610 after 1s
-2. The transition should take 1 second and the timing function should be set to ease-in-out
+<br>
+
+## Third challenge
+
+- When hovered, move a div with a class of element on X axis by 100% in 1 second.
+- Apply transitions.
