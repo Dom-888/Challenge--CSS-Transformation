@@ -1,4 +1,4 @@
-# Contains three Codeinstitute challenges designed to explore the CSS Transition properties
+# Contains three Codeinstitute challenges designed to explore the CSS transform property
 
 <br>
 

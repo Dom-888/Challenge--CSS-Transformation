@@ -3,6 +3,8 @@ img {
     margin: 30px;
 }
 
+/* First challenge */
+
 #Standing {
     transition: transform 1s ease;
 }
@@ -10,6 +12,9 @@ img {
 #Standing:hover {
     transform: scale(2) translate(10px, 40px);
 }
+
+
+/* Second challenge */
 
 #Skateboarding {
     animation: spin 1.5s infinite linear;
@@ -24,4 +29,18 @@ img {
 @-webkit-keyframes spin {
     from { -webkit-transform: rotate(0deg); }
     to { -webkit-transform: rotate(360deg); }
+}
+
+
+/* Third challenge */
+
+.element {
+    color: #F5DB04;
+    background-color: #000;
+    transition: transform 1s;
+    text-align: center;
+}
+
+.element:hover {
+    transform: translateX(100%);
 }
